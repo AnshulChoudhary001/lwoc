@@ -33,4 +33,4 @@ Let's code together and make a difference in the open-source world!
 
 ---
 
-Feel free to customize the above text further to better fit the specific guidelines and culture of your LWOC community. Remember to replace the placeholder email address with a valid contact email for your community.
+
